@@ -13,6 +13,7 @@
     width: 90%;
     height: 400px;
     position: relative;
+   
   }
   
   .img{
@@ -41,4 +42,3 @@
   .link{
     text-decoration: underline;
   }
-
